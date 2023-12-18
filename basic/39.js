@@ -1,4 +1,2 @@
-let myVar = 87;
-
 // Only change code below this line
-myVar++;
+const myArray = ['dsgfdfbdf', 12];
